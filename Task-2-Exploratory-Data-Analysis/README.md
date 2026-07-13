@@ -1,22 +1,49 @@
-# Task 2: Exploratory Data Analysis
+# 📊 Task 2: Exploratory Data Analysis – Superstore Dataset
 
-This project is part of the **CodSoft Data Analytics Internship**.
+## 📌 Objective
 
-## Objective
+Perform exploratory data analysis (EDA) on the Superstore dataset to identify sales patterns, profitability trends, regional performance, customer segments, and business insights through visualizations.
 
-Perform exploratory data analysis on a sales dataset to uncover trends, patterns, and business insights.
+## 📂 Dataset
 
-## Tools Used
+Superstore Dataset
+
+## 🛠️ Tools & Technologies
 
 * Python
 * Pandas
+* NumPy
 * Matplotlib
 * Seaborn
+* Jupyter Notebook
 
-## Dataset
+## 📋 Analysis Performed
 
-Superstore Sales Dataset
+* Data inspection
+* Duplicate record check
+* Missing value analysis
+* Statistical summary
+* Sales distribution
+* Profit distribution
+* Sales by category
+* Profit by category
+* Sales by region
+* Profit by region
+* Sales by state
+* Profit by state
+* Sales by sub-category
+* Profit by sub-category
+* Discount vs Profit analysis
+* Sales vs Profit analysis
+* Correlation heatmap
 
-## Status
+## 📊 Key Insights
 
-🚧 In Progress
+* Sales vary significantly across categories and regions.
+* Higher discounts are often associated with lower profits.
+* Some states contribute substantially more sales and profit than others.
+* The analysis highlights areas where profitability can be improved.
+
+## ✅ Outcome
+
+The exploratory data analysis provides valuable business insights and prepares the dataset for dashboard creation and advanced analytics.
